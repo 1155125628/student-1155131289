@@ -15,4 +15,4 @@ What could you expect from a **dango**?
 - [ ] No
 
 ## Dango don't use git
-![Screenshot](Screenshot 2020-05-05 at 21.34.34.jpg)
+![Screenshot](Screenshot.png)
