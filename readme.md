@@ -14,5 +14,5 @@ Hello World I'm a Dango
 - [ ] Yes
 - [ ] No
 
-## Dango don't use git
+## Don't blame me, dango don't use git
 ![Screenshot](Screenshot.png)
