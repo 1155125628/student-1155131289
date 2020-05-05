@@ -11,8 +11,8 @@ Hello World I'm a Dango
 |reverse a linked list|Yes|
 
 ## Good enough to get into FANG?
-[ ] Yes
-[ ] No
+- [ ] Yes
+- [ ] No
 
 ## Dango don't use git
 ![Screenshot](Screenshot.png)
