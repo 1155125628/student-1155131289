@@ -1,6 +1,6 @@
 # project milestone#2
 ## Introduction
-~~Hello World I'm a Dango~~
+Hello World I'm a Dango
 
 ## My experience
 What could you expect from a **dango**?
@@ -14,4 +14,5 @@ What could you expect from a **dango**?
 - [ ] Yes
 - [ ] No
 
-
+## Dango don't use git
+![Screenshot Commands](Screenshot 2020-05-05 at 21.34.34.jpg)
